@@ -1,6 +1,6 @@
 // 관리자 페이지
 import styles from "./Manager.module.css";
-import managerBanner from "../assets/관리자 (배너).svg";
+// import managerBanner from "../assets/관리자 (배너).svg";
 import { useContext, useEffect, useRef, useState } from "react";
 
 import { deleteDatas, getAddress, updateData } from "../api/firebase";
@@ -125,7 +125,6 @@ function Manager() {
     <>
       {/* 배너 */}
       <div className={styles.managerBanner}>
-        <img src={managerBanner} />
         <div className={styles.managerText}>관리자</div>
       </div>
       {/* 화면 전체 감싸는 div */}
