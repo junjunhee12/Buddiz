@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Buddiz/static/css/main.6e81b48e.css",
-    "main.js": "/Buddiz/static/js/main.e43cfe1c.js",
+    "main.js": "/Buddiz/static/js/main.b258d3a7.js",
     "static/media/관리자 (배너).svg": "/Buddiz/static/media/관리자 (배너).873dd0a3e913cf4f9fc1f08b1ca12ccc.svg",
     "static/media/캐릭터만.gif": "/Buddiz/static/media/캐릭터만.4b412edb26c1676dd540.gif",
     "static/media/buddyLogo.svg": "/Buddiz/static/media/buddyLogo.b97c1e22b69e1426c9528f0b841d1523.svg",
@@ -59,10 +59,10 @@
     "static/media/minus-solid.svg": "/Buddiz/static/media/minus-solid.552354b56005563d4e6c740221d31871.svg",
     "static/media/mountain-left.svg": "/Buddiz/static/media/mountain-left.a9307431d20f86b9fab18c38593b455a.svg",
     "main.6e81b48e.css.map": "/Buddiz/static/css/main.6e81b48e.css.map",
-    "main.e43cfe1c.js.map": "/Buddiz/static/js/main.e43cfe1c.js.map"
+    "main.b258d3a7.js.map": "/Buddiz/static/js/main.b258d3a7.js.map"
   },
   "entrypoints": [
     "static/css/main.6e81b48e.css",
-    "static/js/main.e43cfe1c.js"
+    "static/js/main.b258d3a7.js"
   ]
 }
